@@ -4,7 +4,7 @@ export default function Main() {
   return (
     <div className="bg-gradient-to-b from-dark-purple via-semi-dark-purple to-violet-500 font-mono">
       <div className="bg-[url('./images/weather.png')] h-screen bg-no-repeat bg-center">
-        <div className=" h-screen flex flex-col items-center justify-end gap-3 p-3 text-2xl">
+        <div className=" h-screen flex flex-col items-center justify-end gap-1 p-3 text-2xl">
           <h1 className="text-2xl text-white font-extrabold">Weather</h1>
           <p className="text-2xl text-yellow">Forecasts</p>
 
