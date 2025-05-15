@@ -1,0 +1,5 @@
+@tailwind base;
+
+body {
+  @apply bg-gradient-to-b from-purple-900 to-violet-500 min-h-screen;
+}
